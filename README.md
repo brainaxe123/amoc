@@ -1,5 +1,5 @@
 # AMOC
-I have utlized whatever knowledge I have and this project still needs a lot of improvement. This project basically helps to find malware Portable Executable files.<br/>
+I have utlized whatever knowledge I have and this project still needs a lot of improvement. This project basically helps to find malware Portable Executable(PE) files.<br/>
 <br/>How to use-<br/>
 1.Download both the above files.<br/>
 2.Run testing.py in your terminal and provide the storage address of the pe file to be scanned.<br/>
